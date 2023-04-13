@@ -37,7 +37,7 @@ print("Enter your selection:")
 port = input()
 ser = serial.Serial(serial_ports()[int(port)], 9600)
 ser.write(b'ack') #ack connection
-openai.api_key = "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"
+openai.api_key = "YOUR KEY HERE"
 messages = [ {"role": "system", "content": 
               "You are a intelligent assistant."} ]
 while True:
