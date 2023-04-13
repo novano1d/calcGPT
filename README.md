@@ -5,6 +5,7 @@ To use this program, you will need to install the following:
 
  - TI Connect™ CE software to transfer the program onto the calculator (available from the TI website)
  - The DEMO.8xp program (included in this repository)
+ - calcgpt.py (included in this repository)
  - Python (available from the Python website)
  - The PySerial library (can be installed by running `pip install pySerial`)
  - The OpenAI API (available from the OpenAI website)
