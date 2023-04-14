@@ -1,5 +1,5 @@
-# Running ChatGPT on a TI 84 Plus CE Calculator
-This code allows ChatGPT to run on a TI 84 Plus CE calculator. Using the CE C/C++ Toolchain, a program was written that allows users to enter a prompt on the calculator and send the prompt to a computer connected over USB (via serial). The computer then takes the prompt, makes the API call, and passes the response back to the calculator over serial.
+# Interfacing ChatGPT on a TI 84 Plus CE Calculator
+This code allows ChatGPT to be interfaced on a TI 84 Plus CE calculator. Using the CE C/C++ Toolchain, a program was written that allows users to enter a prompt on the calculator and send the prompt to a computer connected over USB (via serial). The computer then takes the prompt, makes the API call, and passes the response back to the calculator over serial.
 ## Installation
 To use this program, you will need to install the following:
 
