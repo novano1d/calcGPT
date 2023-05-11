@@ -8,7 +8,7 @@
 #include <ti/getcsc.h>
 #include <stdlib.h>
 
-#define BUFFER_SIZE 1300 //1300 allows for 5 pages
+#define BUFFER_SIZE 1170 //1170 allows for 5 pages
 #define BLOCK_SIZE 234 //260 characters fit on screen but last line was being weird
 
 char buffer[BUFFER_SIZE];
